@@ -1,6 +1,6 @@
 # Analyzing Crime in Vancouver
 
-## Ryan Saloff, Yash Mirani, Aditya Bakshi, and Eva Ma.
+## Ryan Saloff, Yash Mirani, Aditya Bakshi, and Eva Ma
 
 Data analysis report of Vancouver's crime rate in **R**.
 
