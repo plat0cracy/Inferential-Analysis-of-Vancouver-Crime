@@ -2,7 +2,7 @@
 
 ## Ryan Saloff, Yash Mirani, Aditya Bakshi, and Eva Ma
 
-Data analysis report of Vancouver's crime rate in **R**. [Report available here](https://github.com/RyanSaloff/Inferential-Analysis-of-Vancouver-Crime/blob/main/Analyzing%20Crime%20in%20Vancouver.ipynb).
+Data analysis report of Vancouver's crime rate in **R**. [(https://github.com/plat0cracy/Inferential-Analysis-of-Vancouver-Crime/blob/main/Analyzing%20Crime%20in%20Vancouver.ipynb)].
 
 🧹 Gathered and processed 20 years of crime data from the BC Police Records Management System. Implemented data cleaning and wrangling techniques to ensure data integrity. 
 
